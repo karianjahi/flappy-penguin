@@ -12,4 +12,5 @@ body {
     border: 1px solid orange;
     width: 100vw;
     height: 400px;
+    background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255));
 }
