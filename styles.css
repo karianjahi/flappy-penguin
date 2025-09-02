@@ -7,3 +7,9 @@ body {
     height: 100vh;
     overflow: hidden;
 }
+
+.ground {
+    border: 1px solid orange;
+    width: 100vw;
+    height: 400px;
+}
