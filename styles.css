@@ -23,6 +23,7 @@ body {
     height: 300px;
     margin: auto;
     margin-top: 75px;
+    z-index: 4;
     border: 2px solid saddlebrown;
 }
 
@@ -59,4 +60,5 @@ body {
     top: -75px;
     right: -75px;
 }
+
 
