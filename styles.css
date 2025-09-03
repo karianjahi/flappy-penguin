@@ -66,10 +66,7 @@ body {
     width: 50%;
     height: 45%;
     background: linear-gradient(45deg, gray, rgb(239, 240, 228));
-    border-top-left-radius: 75%;
-    border-top-right-radius: 75%;
-    border-bottom-left-radius: 65%;
-    border-bottom-right-radius: 65%;
+    border-radius: 70% 70% 65% 65%;
     border: 2px solid rgb(10, 19, 100);
 }
 
