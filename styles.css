@@ -49,4 +49,10 @@ body {
     top: 225px;
 }
 
+.sun {
+    border: 2px solid rgb(15, 15, 155);
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
 
