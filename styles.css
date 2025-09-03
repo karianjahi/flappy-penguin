@@ -90,6 +90,9 @@ body {
 .penguin-body::before {
     position: absolute;
     content: '';
+    width: 50%;
+    height: 45%;
+    background-color: gray;
 }
 
 
