@@ -87,3 +87,9 @@ body {
     position: absolute;
 }
 
+.penguin-body::before {
+    position: absolute;
+    content: '';
+}
+
+
