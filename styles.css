@@ -42,7 +42,7 @@ body {
     height: 300px;
     border: 2px solid rgb(145, 15, 15);
     background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255));
-
+    position: absolute;
 }
 
 
