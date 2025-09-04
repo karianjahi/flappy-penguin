@@ -5,6 +5,10 @@
 **Flappy Penguin** is a visually engaging web-based animation built entirely with **HTML** and **CSS**. The project showcases a cartoon penguin whose left hand waves continuously, set against a colorful scenic background. Beyond animation, this project demonstrates advanced layout, styling, and CSS techniques, making it a strong portfolio piece for front-end development.
 
 ---
+For a live demo and smoother animation experience, visit: [Flappy Penguin Live](https://karianjahi.github.io/flappy-penguin/)
+
+---
+
 
 ## Table of Contents
 - [Features](#features)
