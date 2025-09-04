@@ -213,6 +213,7 @@ body {
     background-color: var(--penguin-picorna);
     top: 85%;
     border-radius: 50%;
+    z-index: -1;
 }
 
 .foot.left {
@@ -224,3 +225,4 @@ body {
     right: 25%;
     transform: rotate(-80deg);
 }
+
