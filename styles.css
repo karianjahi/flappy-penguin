@@ -1,10 +1,11 @@
 :root {
     --penguin-face: white;
+    --penguin-picorna: orange;
 }
 
 body {
     background: linear-gradient(45deg, rgb(118, 201, 255), rgb(247, 255, 222));
-    /* border: 20px solid orangered; */
+    /* border: 20px solid var(--penguin-picorna)red; */
     margin: 0;
     padding: 0;
     width: 100%;
@@ -13,7 +14,7 @@ body {
 }
 
 .ground {
-    border: 1px solid orange;
+    border: 1px solid var(--penguin-picorna);
     width: 100vw;
     height: 400px;
     background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255));
@@ -172,7 +173,7 @@ body {
 
 .beak {
     height: 10%;
-    background-color: orange;
+    background-color: var(--penguin-picorna);
     border-radius: 50%;
 }
 
@@ -203,4 +204,21 @@ body {
     font-weight: initial;
     top: 22.5px;
     left: 12px;
+}
+
+.foot {
+    width: 15%;
+    height: 30%;
+    border: 2px solid tomato;
+    background-color: var(--penguin-picorna);
+    top: 85%;
+    border-radius: 50%;
+}
+
+.foot.left {
+    left: 25%;
+}
+
+.foot.right {
+    right: 25%;
 }
